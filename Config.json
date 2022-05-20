@@ -1,0 +1,13 @@
+{
+    "token": "OTc3MjU1NTQwNDYxODA5NzA0.GNbcTk.kVtciiQ0nJGE7IHQ2-vohY-WSWFKUiUWVJE0Uc",
+    "prefix": "!",
+    "activity": "Bot status text",
+    "developers": [],
+    "globalSlashCommands": false,
+    "slashCommandServerID": "977254795326947399",
+
+    "adminRoleID": "977256980597059605",
+    "playerNotifyChatID": "977266320062165023",
+    "modNotifyChatID": "977257556529545236",
+    "wagerNotifyChatID": "977257746174980146"
+}
